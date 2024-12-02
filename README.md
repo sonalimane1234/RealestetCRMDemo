@@ -257,8 +257,8 @@ Create Maintenance Request
 Add Property
 
 {
-    "propertyName": "Lodha Paradise",
+    "propertyName": "HDFC Colony",
     "location": "Pune",
-    "managerId": 1
+    "managerId": 101
 }
 
